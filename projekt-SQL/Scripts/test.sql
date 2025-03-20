@@ -11,3 +11,10 @@ ORDER BY
 ---feefef
 
 SELECT 'hello';
+
+
+SELECT
+	name,
+	provider_type
+FROM healthcare_provider hp
+ORDER BY name ASC;
