@@ -18,3 +18,13 @@ SELECT
 	provider_type
 FROM healthcare_provider hp
 ORDER BY name ASC;
+SELECT
+	name,
+	provider_type
+FROM healthcare_provider hp
+ORDER BY name ASC;
+SELECT
+	name,
+	provider_type
+FROM healthcare_provider hp
+ORDER BY name ASC;
