@@ -1,4 +1,4 @@
-
+-- Sekundární tabulka
 CREATE TABLE t_hana_zakova_project_SQL_secondary_final AS
 SELECT
     e.country,                     
