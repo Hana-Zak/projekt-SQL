@@ -1,0 +1,14 @@
+# DBeaver / Eclipse konfigurační složky
+.dbeaver/
+.settings/
+
+# Záložní soubory
+*.bak
+
+# Dočasné soubory
+*.log
+*.tmp
+
+# Systémové soubory Windows
+Thumbs.db
+Desktop.ini
