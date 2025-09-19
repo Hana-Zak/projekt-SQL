@@ -1,24 +1,18 @@
 -- Primární tabulka: mzdy a ceny potravin
 CREATE TABLE t_hana_zakova_project_SQL_primary_final AS
-WITH national_wage AS (
-    SELECT
-        y."year",
-        AVG(w.avg_monthly_wage_czk) AS avg_monthly_wage_czk
-    FROM v_common_years y
-    JOIN v_payroll_year_industry w USING ("year")
-    GROUP BY y."year"
-)
 SELECT
-    py."year",
-    nw.avg_monthly_wage_czk,
-    pc.category_code,
-    pc.category_name,
-    pc.avg_price_czk,
-    (nw.avg_monthly_wage_czk / NULLIF(pc.avg_price_czk,0)) AS units_affordable
-FROM v_common_years py
-JOIN national_wage nw ON nw."year" = py."year"
-JOIN v_price_clean pc  ON pc."year" = py."year"
-ORDER BY py."year", pc.category_name;
+    p."year",
+    p.industry_code,
+    p.industry_name,
+    p.avg_monthly_wage_czk,
+    c.category_code,
+    c.category_name,
+    c.avg_price_czk,
+    (p.avg_monthly_wage_czk / NULLIF(c.avg_price_czk,0)) AS units_affordable
+FROM v_payroll_year_industry p
+JOIN v_price_clean c
+  ON p."year" = c."year";
+
 
 SELECT * FROM t_hana_zakova_project_SQL_primary_final;
 
