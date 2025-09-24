@@ -113,7 +113,7 @@ V tabulce sekundárních dat se u některých evropských států objevují chyb
 
 **Odpověď:**
 
-Analýza ukázala, že mzdy v České republice mají obecně vzestupný trend. Přesto se v některých odvětvích objevily meziroční poklesy – nejvíce v těžbě a dobývání (4 případy). Naopak odvětví jako zdravotnictví a sociální péče či doprava a skladování vykazovala po celé sledované období pouze růst. Lze tedy konstatovat, že i když převládá růst mezd, neplatí univerzálně pro všechna odvětví.
+Analýza ukázala, že mzdy v České republice mají obecně vzestupný trend. Přesto se v některých odvětvích objevily meziroční poklesy – nejvíce v odvětvích těžba a dobývání (4 případy) a výroba a rozvod elektřiny (3 případy). Naopak odvětví jako zdravotnictví a sociální péče či doprava a skladování vykazovala po celé sledované období pouze růst. Lze tedy konstatovat, že i když převládá růst mezd, neplatí univerzálně pro všechna odvětví.
 
 
 
@@ -123,7 +123,9 @@ Analýza ukázala, že mzdy v České republice mají obecně vzestupný trend. 
 
 **Odpověď:**
 
-Dostupnost základních potravin se mezi prvním sledovaným obdobím (2006) a posledním obdobím (2018) významně zlepšila. Zatímco v roce 2006 si bylo možné za průměrnou mzdu pořídit přibližně 522 kg chleba a 649 litrů mléka, v roce 2018 to bylo již 2 465 kg chleba a 2 855 litrů mléka. To ukazuje, že růst mezd převážil nad růstem cen těchto potravin, a tedy jejich dostupnost se zvýšila.
+Pro analýzu byla použita průměrná mzda v ČR za všechna odvětví. Výsledky ukazují, že dostupnost základních potravin se mezi prvním a posledním sledovaným obdobím (2006–2018) zlepšila. V roce 2006 si bylo možné za průměrnou mzdu pořídit přibližně 1 065 kg chleba a 1 315 litrů mléka, v roce 2018 to bylo již 1 392 kg chleba a 1 670 litrů mléka.
+
+To znamená, že i když ceny potravin rostly, růst mezd byl rychlejší, a proto se dostupnost chleba a mléka pro průměrného občana v průběhu sledovaného období zvýšila.
 
 
 
@@ -133,7 +135,7 @@ Dostupnost základních potravin se mezi prvním sledovaným obdobím (2006) a p
 
 **Odpověď:**
 
-Nejpomaleji zdražuje cukr krystalový, který měl dokonce průměrný meziroční pokles ceny o 0,09 %.
+Analýza ukázala, že některé potravinové kategorie v průběhu sledovaného období (2006–2018) zdražovaly jen velmi pomalu, případně dokonce zlevňovaly. Nejpomaleji zdražoval cukr krystalový, který měl dokonce průměrný meziroční pokles ceny o 0,09 % a rajská jablka červená kulatá, která měla pokles ceny o 0,04 %. U banánů žlutých, přírodní minerální vody sycené a vepřové pečeně s kostí byly zaznamenány pouze minimální meziroční změny, průměrně kolem +0,05 %.
 
 
 
@@ -143,7 +145,7 @@ Nejpomaleji zdražuje cukr krystalový, který měl dokonce průměrný meziroč
 
 **Odpověď:**
 
-Analýza neodhalila žádný rok, ve kterém by meziroční růst cen potravin převýšil růst mezd o více než 10 %.
+Analýza neodhalila žádný rok, ve kterém by meziroční růst cen potravin převýšil růst mezd o více než 10 %. Nejblíže této hranici byl rok 2013, kdy ceny potravin vzrostly o 5,1 %, zatímco mzdy klesly o 1,56 %, což představovalo rozdíl +6,66 %. Naopak v roce 2009 mzdy rostly výrazně rychleji než ceny, rozdíl činil −9,48 %. I když se v některých letech ceny a mzdy vyvíjely odlišně, rozdíl nikdy nepřekročil hranici 10 %.
 
 
 
@@ -153,7 +155,7 @@ Analýza neodhalila žádný rok, ve kterém by meziroční růst cen potravin p
 
 **Odpověď:**
 
-HDP vs mzdy (0,918) → velmi silná pozitivní korelace.
+HDP vs mzdy (0,922) → velmi silná pozitivní korelace.
 
 HDP vs ceny potravin (0,885) → silná pozitivní korelace.
 
@@ -165,5 +167,5 @@ Analýza ukázala silnou pozitivní korelaci mezi růstem HDP a růstem mezd v �
 
 
 
-Projekt ukázal, že mzdy v ČR rostou, ale ne rovnoměrně napříč odvětvími. Dostupnost základních potravin se zlepšila, některé položky (např. cukr) dokonce zlevňovaly. Růst cen potravin nikdy nepředběhl růst mezd o více než 10 %. Vývoj HDP je úzce spojen s růstem mezd a do jisté míry i s růstem cen potravin.
+Analýza dat z období 2006–2018 ukázala, že mzdy v ČR mají dlouhodobě rostoucí trend, i když některá odvětví zaznamenala opakované poklesy. Dostupnost základních potravin, jako je chléb a mléko, se zlepšila díky rychlejšímu růstu mezd oproti cenám. Některé potraviny (např. cukr) dokonce zlevňovaly, jiné zdražovaly jen minimálně. Růst cen potravin nikdy nepřevýšil růst mezd o více než 10 %, nejblíže tomu byl rok 2013. Byla potvrzena silná pozitivní korelace mezi růstem HDP a růstem mezd (0,922) i cen potravin (0,885), což ukazuje, že ekonomický růst se nejvýrazněji odrazil v růstu mezd, zatímco dopad na ceny potravin byl mírnější.
 
