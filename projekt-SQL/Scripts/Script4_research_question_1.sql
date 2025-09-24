@@ -83,3 +83,4 @@ FROM wage_changes
 GROUP BY industry_name
 ORDER BY times_declined DESC, industry_name;
 
+
