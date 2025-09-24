@@ -19,5 +19,4 @@ FROM (
     WHERE prev_price IS NOT NULL
 ) AS price_growth
 GROUP BY category_name
-ORDER BY avg_yoy_growth_percent ASC
-LIMIT 5;
+ORDER BY avg_yoy_growth_percent ASC;
